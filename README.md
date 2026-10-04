@@ -1,0 +1,20 @@
+Key Shuffle · Play Guide Introduction to Mod This is a prank-style Mod that increases difficulty: every time the player receives non-fatal damage, the game's buttons will be randomly shuffled, and the shuffle is permanent - there is no countdown, no cooldown, and it will not recover on its own. A key panel will permanently appear in the top right corner of the screen, telling you at any time which key is currently bound to each action.
+It doesn't add items, blocks, or creatures to the game for players, but directly alters your operational feel, making it suitable for challenge gameplay, tricking friends, or creating effects for live broadcasts.
+Items/Blocks List This mod does not add any items, blocks, or recipes. After installation, you will not see any new items in your inventory or creative mode item bar.
+No crafting recipes provided. This Mod does not involve any modifications to crafting, looting, or crafting tables.
+The triggering condition for the gameplay description is that as long as you receive damage in the game and the damage is not fatal, a button shuffle will be triggered once.
+Determined by the server/host side, so all players in multiplayer games follow the same rules.
+Fatal damage will not be triggered (since the person is already dead, there is naturally no need to disrupt).
+The shuffling effect is re-randomized every time an injury occurs, making it impossible to predict what it will become next time.
+The reassignment only involves "key mapping": all keys within a group will be reassigned to these actions, without creating additional keys or depriving any action of a key. Therefore, there will be no situation where two actions compete for the same key.
+The scope of the changes only encompasses the basic operations of the original Minecraft version, such as: Movement: forward, backward, left, right, jump, sneak, sprint Interaction: attack, use/place, pick up blocks, discard items, swap hands Interface: open inventory, open chat, player list, enter commands, social interface Shortcut bar: shortcut bars 1 to 9 Shortcut keys for other Mods, as well as miscellaneous keys such as screenshot, fullscreen, and camera switching, will remain unchanged, so there will be no conflicts with other Mods.
+The moment the screen feedback is disrupted due to injury, the screen will flash red, and a prompt "Keys have been disrupted!" will appear in the center of the screen, lasting for about 2 seconds.
+There is a persistent panel in the top right corner of the screen: the title displays [Button Shuffle] (in red) to indicate that it is currently in shuffle mode; it displays [Key Normal] (in gray) to indicate normal status.
+Below, we list the commonly used original actions and their currently bound keys, to facilitate your reference and re-adaptation of the operation.
+The temporary setting of key mapping disorder is saved within the current game session. Upon leaving the current world or exiting the game, the key mappings will automatically revert to your original settings and will not be saved as a new "default key mapping".
+If you don't want to wait for the exit, you can also manually change the button back by entering "Options → Controls" at any time.
+To experience the Disrupt effect again, you just need to take another non-fatal damage.
+The key mapping disruptions are permanent: there is currently no "auto-restore" or "time-limited" mechanism, so don't expect the key mappings to revert on their own after a while.
+As it will change the movement and attack keys, please check the upper right corner panel before operating after taking damage, to avoid accidentally pressing and falling, falling into magma, or hitting the wrong target during combat.
+This Mod is designed for difficulty/pranking, please assess it yourself if you plan to play solo; if you are playing on a multiplayer server, please confirm that other players are also comfortable with this gameplay style.
+It only affects the original Minecraft button mappings and will not interfere with the shortcut keys you have set for other mods.
